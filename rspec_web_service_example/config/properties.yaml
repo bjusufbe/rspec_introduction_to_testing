@@ -1,0 +1,6 @@
+properties:
+  api_key: AIzaSyAduI45QgLRByWTZmDmiaa-uc7wT6skMDo
+  base_url: https://maps.googleapis.com
+  geocoding_endpoint: /maps/api/geocode/json
+  distance_endpoint: /maps/api/distancematrix/json
+  places_endpoint: /maps/api/place/nearbysearch/json

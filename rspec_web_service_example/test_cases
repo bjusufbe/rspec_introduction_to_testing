@@ -1,0 +1,13 @@
+Test Case 01: Geocode your address, take lat/long and find place with food category in radius of 500m and calculate distance to it (drive/walk)
+
+Description: Using predefined address, geocode it and get results
+Expected result: Address has been geocoded successfully and it contains lat/long
+
+Description: Take lat/long and find restourants in radius of 500m
+Expected result: List of restourants has been found in radius of 5mm
+
+Description: Take first address and calculate walking distance between that address and your starting address
+Expected result: Walking distance has been calculated successfully
+
+Description: Take first address and calculate drive distance between that address and your starting address
+Expected result: Drive distance has been calculated successfully
